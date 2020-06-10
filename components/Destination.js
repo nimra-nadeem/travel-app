@@ -1,5 +1,3 @@
-
-// Login Comment example
 import React, { Component } from 'react';
 import {
    StyleSheet,
@@ -9,7 +7,6 @@ import {
    TextInput,
    Image
 } from 'react-native';
-import Icon from "react-native-vector-icons/Ionicons"
 
 
 class Destination extends Component {

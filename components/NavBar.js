@@ -1,5 +1,5 @@
 import React from 'react'
-import { Platform, StyleSheet, Text, View, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 import { Actions } from 'react-native-router-flux'; 
 
 function NavBar() {
